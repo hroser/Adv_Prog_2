@@ -14,4 +14,13 @@ Author: Tobias Schaffer
 - download the code
 - etc.
 
+## List of homeworks
+
+- [ ] list1
+- [ ] list2
+- [ ] string1
+- [ ] string2
+- [ ] wordcount
+- [ ] mimic
+
 
